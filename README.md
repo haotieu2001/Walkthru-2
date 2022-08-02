@@ -4,7 +4,8 @@ this is a demo
 This is a sample repo for live coding course
 
 this is another paragraph
-##More detail:
+
+## More detail:
 Here a list:
 -First
 -Second
